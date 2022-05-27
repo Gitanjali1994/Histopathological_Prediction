@@ -13,4 +13,5 @@ Given this, the dataset is not in my control. This dataset purpose is to deep le
 <img width="1606" alt="Screenshot 2022-05-27 at 5 05 04 PM" src="https://user-images.githubusercontent.com/68320689/170691894-662d6848-e647-4ded-a434-ddac52a411bf.png">
 
 
-![Uploading Screenshot 2022-05-27 at 5.05.48 PM.png…]()
+
+<img width="1359" alt="Screenshot 2022-05-27 at 5 05 48 PM" src="https://user-images.githubusercontent.com/68320689/170692061-0b23f0c1-9c4d-4f42-849a-22a94fb16d88.png">
